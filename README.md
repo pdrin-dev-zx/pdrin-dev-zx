@@ -1,4 +1,12 @@
-## Hi there 👋
+# Oi, eu sou o Pedro William
+
+## Sejam bem-vindos ao meu repositorio
+
+## Tecnologias que estou aprendendo:
+
+Logica de programação
+Frameworks
+Git
 
 <!--
 **pdrin-dev-zx/pdrin-dev-zx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
